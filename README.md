@@ -1,26 +1,3 @@
-# Table of contents:
-
-1. [How I got started with coding](#how-i-got-started-with-coding)  
-2. [How I suggest you get started with coding](#how-i-suggest-you-get-started-with-coding)  
-   1. [Picking a language](#picking-a-language)  
-   2. [Learning the basics](#learning-the-basics)  
-      1. [Variables and constants](#variables-and-constants)  
-      2. [Conditions](#conditions)  
-      3. [Loops](#loops)  
-         1. [For loop](#for-loop)  
-         2. [While loop](#while-loop)  
-      4. [Functions](#functions)  
-3. [Editor](#editor)  
-4. [Core competences](#core-competences)  
-   1. [Searching](#searching)  
-   2. [Learn to read and understand code of others](#learn-to-read-and-understand-code-of-others)  
-   3. [Don't hesitate to ask...](#don-t-hesitate-to-ask)  
-   4. [Know your tools](#know-your-tools)  
-5. [Example projects](#example-projects)  
-   1. [FizzBuzz](#fizzbuzz)  
-   2. [Commandline Calculator](#commandline-calculator)  
-   3. [Project Euler](#project-euler)
-
 # How I got started with coding
 I learnt the basics of programming in school. Initially we used the drag-and-drop editor
 [Scratch](https://scratch.mit.edu/projects/editor/) that uses blocks you can stick together to create a program.
@@ -178,7 +155,7 @@ Now there are a few things that I think are crucial to software development:
 
 ## 1. Searching
 You will face issues when working on your project that you want to find solutions for.   
-"How do I read user input from the commandline in python" might work for google. "input python" is much shorter and chances are you will get the same result. Generally try to use the 2-4 main keywords of what you are searching for + the language or framework you are working in. This might not make a big difference in the beginning, the more this will make a difference.
+"How do I read user input from the commandline in python" might work for google. "input python" is much shorter and chances are you will get the same result. Generally try to use the 2-4 main keywords of what you are searching for + the language or framework you are working in. This might not make a big difference in the beginning, the more specialized your questions become, the more will this make a difference.
 
 Don't give up if the first search didn't turn up what you wanted. Try different keywords, different combinations and open the first few links and read through them. Even if they are not what you want now, they might be relevant later or show you stuff that you think is going to be useful further on!
 
